@@ -3,7 +3,7 @@ Voorbeeldcode bij Blog artikel https://www.mrasoft.nl/blazor-crud-minimal-api/
 
 Hier staat een ASP .NET Core Web API-solution. Voor de solution is de Visual Studio 2022 IDE gebruikt. Het gebruikte .Net Framework is .Net 6.0.
 
-De voorbeeldcode bevat een implementatie dat gebruik van een tabel in een SQL Server database. De SQL Server database zit niet in deze GitHub respository. Maak hiervoor op je SQL Server een database aan met de naam **VOORBEELD** en creëer in die database een tabel met de naam **EIGENAAR**. 
+De voorbeeldcode bevat een implementatie dat gebruik maakt van een tabel in een SQL Server database. De SQL Server database zit niet in deze GitHub respository. Maak hiervoor op je SQL Server een database aan met de naam **VOORBEELD** en creëer in die database een tabel met de naam **EIGENAAR**. 
 
 Neem de volgende velden op in tabel **EIGENAAR**:
 - ID (int, not null, primary key - Identity Specification, Identity increment: 1, Identity Seed: 1)
